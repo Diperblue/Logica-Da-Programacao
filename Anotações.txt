@@ -1,0 +1,5 @@
+	Curso de logica da programação:
+		Aula 2:
+			commandos:
+				escreva () > escreve algo
+				escreval () > salta linha e escreve  
