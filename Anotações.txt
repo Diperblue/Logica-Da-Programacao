@@ -2,4 +2,5 @@
 		Aula 2:
 			commandos:
 				escreva () > escreve algo
-				escreval () > salta linha e escreve  
+				escreval () > salta linha e escreve
+				
