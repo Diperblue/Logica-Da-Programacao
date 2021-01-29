@@ -4,3 +4,8 @@
 				escreva () > escreve algo
 				escreval () > salta linha e escreve
 				
+				escreva ("string", (nome da variavel)) 
+				variaveis:
+					(nome da variavel): (caractere)
+					Para atribuir:
+						(nome da variavel) <- (algo)

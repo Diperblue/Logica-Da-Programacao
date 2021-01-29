@@ -1,6 +1,7 @@
 Algoritmo "logica da programação"
 Var
-
+ msg: caractere
 Inicio
-escreva ("Ola mundo!")
+msg <- "Ola, Mundo"
+escreva ("Mensagem ", msg)
 Fimalgoritmo
