@@ -3,9 +3,46 @@
 			commandos:
 				escreva () > escreve algo
 				escreval () > salta linha e escreve
-				
+
 				escreva ("string", (nome da variavel)) 
 				variaveis:
 					(nome da variavel): (caractere)
 					Para atribuir:
 						(nome da variavel) <- (algo)
+
+
+
+
+
+
+
+
+
+ Aula 3:
+ 	Commando de entrada:
+ 		perguntar:
+ 			Escreva ("Qual o seu nome: ")
+ 			Leia (nome)
+ 	Operadores Aritimeticos:
+ 		Suportado pelo visualg e pela maioria das linguagens de programação e:
+ 			Adição: +
+ 			subtração: -
+ 			Multiplicão: *
+ 			Divisão: /
+ 			Divisão inteira: \
+ 			Exponenciação: ^
+ 			Módulo: %
+ 	Ordem de Procedencia:
+ 		() Parenteses
+ 		^ Exponenciação
+ 		*/ Multiplicação / Divisâo
+ 		+ - Adição / Subtração
+ 	Funções Aritimeticas:
+ 		Abs: Valor Absoluto
+ 		Exp: Exponenciação
+ 		Int: Valor Inteiro
+ 		RaizQ: Raiz Quadrado
+ 		Pi: Retorna Pi
+ 		Sen: Seno (rad)
+ 		Cos: Cosseno (rad)
+ 		Tan: Tangente (red)
